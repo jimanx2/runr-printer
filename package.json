@@ -1,0 +1,19 @@
+{
+  "name": "runr-printing",
+  "version": "0.0.1",
+  "description": "Printing Entrypoint For Runr",
+  "main": "main.js",
+  "dependencies": {
+    "pcsclite": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimanx2/runr-printing"
+  },
+  "keywords": [
+  ],
+  "author": "Haziman Hashim",
+  "contributors": [
+  ],
+  "license": "MIT"
+}
