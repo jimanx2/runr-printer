@@ -4,7 +4,6 @@
   "description": "Printing Entrypoint For Runr",
   "main": "main.js",
   "dependencies": {
-    "pcsclite": "latest"
   },
   "repository": {
     "type": "git",
